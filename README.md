@@ -11,7 +11,7 @@
 
 💞️ I’m looking to collaborate on exciting tech projects, particularly those involving full-stack development and open-source contributions.
 
-📫 How to reach me: Connect with me on LinkedIn.
+📫 How to reach me: (https://www.linkedin.com/in/sagar-prasad-yadav-812407267/)
 
 <!---
 yadavpdsagar/yadavpdsagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
