@@ -12,7 +12,8 @@
 💞️ I’m looking to collaborate on exciting tech projects, particularly those involving full-stack development and open-source contributions.
 
 📫 How to reach me: (https://www.linkedin.com/in/sagar-prasad-yadav-812407267/)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavpdsagar&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="yadavpdsagar"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavpdsagar&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="yadavpdsagar">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavpdsagar&amp;" alt="yadavpdsagar"></p></p>
 
 
 <!---
