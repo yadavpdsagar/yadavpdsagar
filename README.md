@@ -1,15 +1,13 @@
 
 
+<h1 align="center">Hi 👋, I'm sagar prasad yadav</h1>
+<h3 align="center">👀 I’m interested in exploring innovative tech solutions and contributing to impactful software projects.</h3>
 
-👋 Hi, I’m Sage Prasad Yadav!
+<h3>💪 Skills: Proficient in C#, Java, JavaScript, SQL, MySQL, MS SQL, and React.</h3>
+<p align="center">🌱 I’m currently learning more about advanced programming techniques and software development best practices, with a focus on machine learning and cloud computing. <br>
+  💞️ I’m looking to collaborate on exciting tech projects, particularly those involving full-stack development and open-source contributions.
+</p>
 
-👀 I’m interested in exploring innovative tech solutions and contributing to impactful software projects.
-
-🌱 I’m currently learning more about advanced programming techniques and software development best practices, with a focus on machine learning and cloud computing.
-
-💪 Skills: Proficient in C#, Java, JavaScript, SQL, MySQL, MS SQL, and React.
-
-💞️ I’m looking to collaborate on exciting tech projects, particularly those involving full-stack development and open-source contributions.
 
 📫 How to reach me: (https://www.linkedin.com/in/sagar-prasad-yadav-812407267/)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavpdsagar&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="yadavpdsagar">
@@ -22,6 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm sagar prasad yadav</h1>
+<h3 align="center">👀 I’m interested in exploring innovative tech solutions and contributing to impactful software projects.</h3>
+<p align="center">🌱 I’m currently learning more about advanced programming techniques and software development best practices, with a focus on machine learning and cloud computing.
+</p>
+<h3 align="center">A passionate frontend developer from nepal</h3>
 <h3 align="center">A passionate frontend developer from nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavpdsagar&label=Profile%20views&color=0e75b6&style=flat" alt="yadavpdsagar" /> </p>
