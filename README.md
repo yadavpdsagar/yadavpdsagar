@@ -1,10 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm sagar prasad yadav</h1>
-<h3 align="center">👀 I’m interested in exploring innovative tech solutions and contributing to impactful software projects.</h3>
-
 <h3>💪 Skills: Proficient in C#, Java, JavaScript, SQL, MySQL, MS SQL, and React.</h3>
-<p align="center">🌱 I’m currently learning more about advanced programming techniques and software development best practices, with a focus on machine learning and cloud computing. <br>
+<p align="center">👀 I’m interested in exploring innovative tech solutions and contributing to impactful software projects.</p>
+<p >🌱 I’m currently learning more about advanced programming techniques and software development best practices, with a focus on machine learning and cloud computing. <br>
   💞️ I’m looking to collaborate on exciting tech projects, particularly those involving full-stack development and open-source contributions.
 </p>
 
